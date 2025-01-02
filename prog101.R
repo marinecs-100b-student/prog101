@@ -1,3 +1,5 @@
+"I edited prog101.R to complete the PROG101 module."
+
 
 # Guiding questions -------------------------------------------------------
 
